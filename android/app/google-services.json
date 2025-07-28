@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "381887705721",
+    "firebase_url": "https://projectiotpnm-812b8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projectiotpnm-812b8",
+    "storage_bucket": "projectiotpnm-812b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381887705721:android:01fcc3512d50398fe2daa8",
+        "android_client_info": {
+          "package_name": "com.example.monitoring_kendaraan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlSlMyGsZ-nSQ4sHJKWNKHl4lsUAkuqWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381887705721:android:33043f0693182da4e2daa8",
+        "android_client_info": {
+          "package_name": "com.example.scanktpkendaraan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlSlMyGsZ-nSQ4sHJKWNKHl4lsUAkuqWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
